@@ -1,0 +1,14 @@
+Sales Analysis description:
+
+This sales dashboard provides an overview of sales performance across different years, customer segments, and product categories.
+
+Overall Performance: The total order count is 9,994.
+
+Sales by Year: The "Sum of Sales by Year" graph shows a consistent upward trend in sales from 2014 to 2017, increasing from a low of 0.47M in 2015 to 0.73M in 2017. The graph also includes a projection for 2018 and 2019, indicating continued growth.
+
+Sales by Segment: The "Sales by Segment" donut chart reveals that the "Consumer" segment is the largest contributor to sales, accounting for 1.16M (50.56%) of the total. The "Corporate" segment follows with 0.71M (30.7%), and "Home Office" is the smallest segment at 0.43M (18.7%).
+
+Sales by Category and Sub-Category: The bar chart shows sales broken down by product category and sub-category.
+Furniture: "Chairs" have the highest sales at 0.33M.
+Office Supplies: "Storage" has the highest sales at 0.22M.
+Technology: "Phones" have the highest sales at 0.33M.
